@@ -1037,7 +1037,7 @@ for that PowerShell window); on a Mac:
 
 ## License
 
-aiVoiceTools is free software under the MIT License (see `LICENSE`). The voice model weights
+aiVoiceTools is released under the MIT License with the Commons Clause License Condition v1.0 ([LICENSE](LICENSE)), copyright 2026 Take Two Partners, LLC. You may use, copy and share aiVoiceTools, but the Commons Clause does not let you sell it, or a product or service whose value comes mainly from it. This license applies from the release after 0.3.0. Version 0.3.0 and earlier releases keep the MIT License they shipped with. The voice model weights
 come under their own licenses, listed in Credits below.
 
 ## Credits
